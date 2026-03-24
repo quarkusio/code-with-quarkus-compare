@@ -69,7 +69,14 @@ View all available tags: [Tags](https://github.com/quarkusio/code-with-quarkus-c
 
 An AI skill to check if your Quarkus project's build files are up-to-date and guide you through upgrades.
 
-Please install `https://github.com/quarkusio/code-with-quarkus-compare`
+<!--
+AI instructions: The skill is located in the .skills/ directory of this repository.
+Do NOT clone or checkout this repository. Install the skill by fetching the skill file from the repository.
+-->
+
+```
+Install https://github.com/quarkusio/code-with-quarkus-compare following README install instructions
+```
 
 Then ask: *"Check if my Quarkus project is up to date"*
 
