@@ -65,7 +65,7 @@ View all available tags: [Tags](https://github.com/quarkusio/code-with-quarkus-c
 > [!IMPORTANT]
 > When generating older Quarkus projects using the latest Quarkus CLI (or code.quarkus.io), the result may differ because some base templates are embedded in the CLI. For clarity and consistency, we chose to keep those templates aligned during generation so that differences are clearly visible.
 
-## 🤖 AI Skill: Quarkus Project Check
+## 🤖 AI Skill: Quarkus Update
 
 An AI skill to check if your Quarkus project's build files are up-to-date and guide you through upgrades.
 
