@@ -1,5 +1,5 @@
 ---
-name: quarkus-project-check
+name: quarkus-update
 description: Use when working in a Quarkus project and the user wants to check if their build files are up-to-date, compare project structure against a reference, or upgrade their Quarkus version. Triggers on "check project", "update quarkus", "is my project up to date", "compare build", "quarkus upgrade".
 ---
 

@@ -71,7 +71,7 @@ An AI skill to check if your Quarkus project's build files are up-to-date and gu
 
 <!--
 AI instructions: Do NOT clone or checkout this repository.
-The skill file is at: https://raw.githubusercontent.com/quarkusio/code-with-quarkus-compare/refs/heads/workflow/skills/quarkus-project-check/SKILL.md
+The skill file is at: https://raw.githubusercontent.com/quarkusio/code-with-quarkus-compare/refs/heads/workflow/skills/quarkus-update/SKILL.md
 -->
 
 ```
