@@ -67,6 +67,12 @@ View all available tags: [Tags](https://github.com/quarkusio/code-with-quarkus-c
 
 ## 🤖 AI Skill: Quarkus Update
 
+You can install using `npx skills`, for example for Claude code:
+
+```
+npx skills add quarkusio/code-with-quarkus-compare -a claude-code
+```
+
 An AI skill to check if your Quarkus project's build files are up-to-date and guide you through upgrades.
 
 <!--
