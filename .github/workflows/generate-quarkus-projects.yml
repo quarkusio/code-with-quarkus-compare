@@ -13,6 +13,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: generate-quarkus-projects
+  cancel-in-progress: false
+
 jobs:
   generate-project:
     runs-on: ubuntu-latest
